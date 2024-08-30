@@ -1,6 +1,3 @@
-# 💫 About Me:
-I am currently a Junior Backend Developer at Overnodes, developing APIs for SaaS. <br><br>To become a top-notch developer, I aspire to continuously study programming skills and new technology. I believe that transformation starts with curiosity and passion for learning. <br><br>I am also interested in Front-end Development and new technologies such as Big Data, ML, AI Tech.<br><br>**Language** | Node.js, TypeScript, JavaScript, Python, HTML, CSS, SQL<br>**Frameworks & Libraries** | Nest.js, Express.js, Graphql, Django, React<br>**DB Tools** | PostgreSQL, mySQL, Redshift, MongoDB<br>**Infra and Co-work tools** | AWS, Github
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-kang-00a624227) 
 
